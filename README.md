@@ -17,4 +17,6 @@ The main objectives of the landing page are to:
 ## Technologies
 - HTML
 - CSS(SCSS)
+- BEM
+- AOS
 - JS
